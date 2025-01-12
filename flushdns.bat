@@ -8,7 +8,7 @@ ipconfig /release
 echo IP address released. 
 
 echo Renewing IP address...
-ipconfig /renew
+ipconfig /renew 
 echo IP address renewed.
 
 echo Flushing DNS cache...
