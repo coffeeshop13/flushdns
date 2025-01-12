@@ -5,7 +5,7 @@ echo TCP/IP stack reset done.
 
 echo Releasing IP address...
 ipconfig /release
-echo IP address released.
+echo IP address released. 
 
 echo Renewing IP address...
 ipconfig /renew
