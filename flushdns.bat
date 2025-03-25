@@ -1,6 +1,6 @@
 @echo off
 echo Resetting TCP/IP stack...
-netsh int ip reset
+netsh int ip reset 
 echo TCP/IP stack reset done.  
  
 echo Releasing IP address... 
